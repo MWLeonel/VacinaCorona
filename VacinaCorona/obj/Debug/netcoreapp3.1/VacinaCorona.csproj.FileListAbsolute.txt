@@ -1,0 +1,13 @@
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\bin\Debug\netcoreapp3.1\VacinaCorona.exe
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\bin\Debug\netcoreapp3.1\VacinaCorona.deps.json
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\bin\Debug\netcoreapp3.1\VacinaCorona.runtimeconfig.json
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\bin\Debug\netcoreapp3.1\VacinaCorona.runtimeconfig.dev.json
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\bin\Debug\netcoreapp3.1\VacinaCorona.dll
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\bin\Debug\netcoreapp3.1\VacinaCorona.pdb
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\obj\Debug\netcoreapp3.1\VacinaCorona.csprojAssemblyReference.cache
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\obj\Debug\netcoreapp3.1\VacinaCorona.AssemblyInfoInputs.cache
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\obj\Debug\netcoreapp3.1\VacinaCorona.AssemblyInfo.cs
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\obj\Debug\netcoreapp3.1\VacinaCorona.csproj.CoreCompileInputs.cache
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\obj\Debug\netcoreapp3.1\VacinaCorona.dll
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\obj\Debug\netcoreapp3.1\VacinaCorona.pdb
+C:\Users\Igreja Pedreira\Desktop\VacinaCorona\VacinaCorona\obj\Debug\netcoreapp3.1\VacinaCorona.genruntimeconfig.cache
